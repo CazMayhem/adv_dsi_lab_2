@@ -1,7 +1,7 @@
-adv_dsi_lab_2
+Advance Data Science Innovation Autumn 2022
 ==============================
 
-adv_dsi_lab_2
+Lab 2 Exercices
 
 Project Organization
 ------------
